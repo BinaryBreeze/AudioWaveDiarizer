@@ -37,5 +37,5 @@ AudioWaveDiarizer is a PyQt5-based application designed to visualize audio wavef
 - Matplotlib
 ## License
 
-This project is licensed under the MIT License. SSee the [LICENSE](LICENSE) file for details..
+This project is licensed under the Apache License 2.0 . See the [LICENSE](LICENSE) file for details..
 
