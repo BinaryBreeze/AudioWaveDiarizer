@@ -15,7 +15,7 @@ AudioWaveDiarizer is a PyQt5-based application designed to visualize audio wavef
 - **Create a Virtual Environment**:
   ```sh
   python -m venv venv
-  source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+  source venv/bin/activate  # On Windows use "venv\Scripts\activate"
 - **Install Dependencies**:
   ```sh
   pip install -r requirements.txt
